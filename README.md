@@ -4,7 +4,7 @@
 Download zip file or <br>
 Clone with git + remove git folder
 ```
-git clone https://github.com/andyjud/django-starter.git . && rm -rf .git
+git clone https://github.com/Emmanuel-Begati/TenGo-Chat.git . && rm -rf .git
 ```
 <br><br><br>
 
